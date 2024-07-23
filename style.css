@@ -7,6 +7,7 @@ body {
 main {
     max-width: 780px;
     margin: 0 auto;
+    padding: 1rem;
 }
 .hero {
     text-align: center;
@@ -225,5 +226,8 @@ main {
     }
     .password .actions img{
         width: 24px;
+    }
+    main{
+        padding: 1rem;
     }
 }
